@@ -1,0 +1,3 @@
+C:\000-AWS\Demonstrations\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.csprojAssemblyReference.cache
+C:\000-AWS\Demonstrations\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.AssemblyInfoInputs.cache
+C:\000-AWS\Demonstrations\TaxiFarePredictionApp\TaxiFarePredictionAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TaxiFarePredictionAppML.ConsoleApp.AssemblyInfo.cs
